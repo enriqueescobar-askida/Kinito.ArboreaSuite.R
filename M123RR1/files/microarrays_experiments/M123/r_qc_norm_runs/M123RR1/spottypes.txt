@@ -1,0 +1,4 @@
+SpotType	Name	Color
+Oligo	*	black
+BLANK	Blank*	brown
+Spike1	X58149.1-1	red

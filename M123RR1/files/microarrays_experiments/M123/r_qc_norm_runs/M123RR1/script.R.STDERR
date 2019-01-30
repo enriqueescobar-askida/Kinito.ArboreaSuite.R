@@ -1,0 +1,12 @@
+
+Welcome to Bioconductor
+
+    Vignettes contain introductory material. To view, type
+    'openVignette()' or start with 'help(Biobase)'. For details
+    on reading vignettes, see the openVignette help page.
+
+Error in X11(paste("png::", filename, sep = ""), width, height, pointsize,  : 
+	unable to start device PNG
+In addition: Warning message:
+unable to open connection to X11 display '' 
+Execution halted
